@@ -531,7 +531,7 @@ class Mission
 					skill=0.60000002;
 					text="task01";
 					syncId=2;
-					synchronizations[]={15};
+					synchronizations[]={16};
 				};
 			};
 		};
@@ -597,7 +597,7 @@ class Mission
 					lock="UNLOCKED";
 					skill=0.60000002;
 					syncId=3;
-					synchronizations[]={13};
+					synchronizations[]={14};
 				};
 			};
 		};
@@ -663,7 +663,7 @@ class Mission
 					lock="UNLOCKED";
 					skill=0.60000002;
 					syncId=4;
-					synchronizations[]={14};
+					synchronizations[]={15};
 				};
 			};
 		};
@@ -764,7 +764,7 @@ class Mission
 						};
 						class Item3
 						{
-							value="";
+							value="A equipe deve investigar o local, avaliar a possível remoção do artefado do local e buscar qualquer pista que possa levar a localização do mesmo.";
 							parentCls="ModuleTaskCreate_F";
 							typeName="Description";
 						};
@@ -860,7 +860,7 @@ class Mission
 					lock="UNLOCKED";
 					skill=0.60000002;
 					syncId=6;
-					synchronizations[]={13};
+					synchronizations[]={14};
 				};
 			};
 		};
@@ -969,7 +969,7 @@ class Mission
 				{
 					position[]={2725.9692,133.68896,11307.026};
 					speed="FULL";
-					synchronizations[]={16};
+					synchronizations[]={17};
 					class Effects
 					{
 					};
@@ -2312,7 +2312,7 @@ class Mission
 				class Item0
 				{
 					position[]={6779.6396,44.566086,8466.998};
-					synchronizations[]={13};
+					synchronizations[]={17};
 					class Effects
 					{
 					};
@@ -2487,8 +2487,8 @@ class Mission
 				items=9;
 				class Item0
 				{
-					position[]={6024.2593,77.962677,11178.531};
-					synchronizations[]={13};
+					position[]={6023.3726,77.955429,11177.645};
+					synchronizations[]={17};
 					class Effects
 					{
 					};
@@ -2737,7 +2737,7 @@ class Mission
 					skill=0.60000002;
 					text="task01_1";
 					syncId=7;
-					synchronizations[]={17};
+					synchronizations[]={18};
 				};
 			};
 		};
@@ -2882,10 +2882,12 @@ class Mission
 				{
 					position[]={11183.572,65.28759,9140.2549};
 					formation="COLUMN";
+					synchronizations[]={17};
 					class Effects
 					{
 					};
 					showWP="NEVER";
+					syncId=13;
 				};
 				class Item2
 				{
@@ -5309,7 +5311,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=5;
+		items=10;
 		class Item0
 		{
 			position[]={4642.6104,148.61159,5916.0513};
@@ -5321,7 +5323,7 @@ class Mission
 		{
 			position[]={2760.3213,137.2431,11228.521};
 			name="unk_1";
-			text=" Carga";
+			text=" Tauros - 1";
 			type="mil_unknown";
 			colorName="ColorEAST";
 		};
@@ -5329,10 +5331,10 @@ class Mission
 		{
 			position[]={2960.2246,155.42409,11088.562};
 			name="hh";
-			text=" Vegas";
+			text=" Vegas-02";
 			type="hd_arrow";
 			colorName="ColorBlue";
-			angle=-41.457596;
+			angle=-41.4576;
 		};
 		class Item3
 		{
@@ -5350,10 +5352,51 @@ class Mission
 			colorName="ColorBlue";
 			angle=-41.4576;
 		};
+		class Item5
+		{
+			position[]={1139.2058,150.07253,10272.435};
+			name="ml1";
+			text="Hotel - 1";
+			type="KIA";
+			colorName="ColorEAST";
+		};
+		class Item6
+		{
+			position[]={7637.3857,54.498966,10199.904};
+			name="ml1_1";
+			text="Hotel-2";
+			type="KIA";
+			colorName="ColorEAST";
+		};
+		class Item7
+		{
+			position[]={3405.925,165.66602,10876.582};
+			name="hh_2";
+			text=" Vegas-01";
+			type="hd_arrow";
+			colorName="ColorBlue";
+			angle=-40.96209;
+		};
+		class Item8
+		{
+			position[]={3420.6394,168.56999,10892.047};
+			name="hh_1_2";
+			type="hd_arrow";
+			colorName="ColorBlue";
+			angle=-40.96209;
+		};
+		class Item9
+		{
+			position[]={3391.8054,163.05357,10858.489};
+			name="hh_1_1_1";
+			type="hd_arrow";
+			colorName="ColorBlue";
+			angle=-40.96209;
+		};
 	};
 	class Sensors
 	{
-		items=8;
+		items=12;
 		class Item0
 		{
 			position[]={2751.1814,137.14371,11251.571};
@@ -5383,12 +5426,12 @@ class Mission
 			interruptable=1;
 			age="UNKNOWN";
 			expCond="!isnil {intel};";
-			expActiv="Corona sideChat ""Corona para Kaiser. Foi identificado vehiculos terrestre e duas aeronaves se deslanco para Tauros-1. A equipe deve evacuar a área imediatamente e retornar à FOB sem ser comprometer a localização da área segura.""";
+			expActiv="Corona sideChat ""Corona para Kaiser! Corona para Kaiser! Estão na escuta?! Foi identificado veículos terrestre e aeronaves se deslanco para Tauros-1. A equipe deve evacuar a área imediatamente e retornar à FOB sem ser comprometer a localização da área segura.""";
 			class Effects
 			{
 			};
-			synchronizations[]={3,6,11,12};
-			syncId=13;
+			synchronizations[]={3,6};
+			syncId=14;
 		};
 		class Item2
 		{
@@ -5407,7 +5450,7 @@ class Mission
 			{
 			};
 			synchronizations[]={4};
-			syncId=14;
+			syncId=15;
 		};
 		class Item3
 		{
@@ -5421,7 +5464,7 @@ class Mission
 			{
 			};
 			synchronizations[]={2};
-			syncId=15;
+			syncId=16;
 		};
 		class Item4
 		{
@@ -5444,7 +5487,7 @@ class Mission
 		};
 		class Item5
 		{
-			position[]={2747.5796,176.77287,10553.671};
+			position[]={2549.6707,176.76347,10567.76};
 			a=600;
 			b=500;
 			angle=-12.2784;
@@ -5467,14 +5510,16 @@ class Mission
 			a=300;
 			b=300;
 			activationBy="WEST";
-			interruptable=1;
+			timeoutMin=300;
+			timeoutMid=300;
+			timeoutMax=300;
 			age="UNKNOWN";
 			name="truck";
 			class Effects
 			{
 			};
-			synchronizations[]={10};
-			syncId=16;
+			synchronizations[]={10,12,13,11};
+			syncId=17;
 		};
 		class Item7
 		{
@@ -5488,7 +5533,83 @@ class Mission
 			{
 			};
 			synchronizations[]={7};
-			syncId=17;
+			syncId=18;
+		};
+		class Item8
+		{
+			position[]={4640.6924,82.630188,11247.57};
+			a=600;
+			b=500;
+			angle=94.179474;
+			rectangular=1;
+			activationBy="LOGIC";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			text="Area de Esseker";
+			name="z5";
+			expCond="time > 1";
+			expActiv="fun = [""z5"",[1,0,0],[(ceil 2+(random 1) ),4,20,6],[],[],[],[0,11,2,9,1]] spawn DAC_Zone";
+			class Effects
+			{
+			};
+		};
+		class Item9
+		{
+			position[]={4239.1279,228.85597,10469.28};
+			a=600;
+			b=500;
+			angle=70.011597;
+			rectangular=1;
+			activationBy="LOGIC";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			text="Area de Esseker";
+			name="z6";
+			expCond="time > 1";
+			expActiv="fun = [""z6"",[1,0,0],[(ceil 2+(random 1) ),4,20,6],[],[],[],[0,11,2,9,1]] spawn DAC_Zone";
+			class Effects
+			{
+			};
+		};
+		class Item10
+		{
+			position[]={2835.7627,161.83807,9445.7607};
+			a=600;
+			b=500;
+			angle=-12.2784;
+			rectangular=1;
+			activationBy="LOGIC";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			text="Area de Esseker";
+			name="z7";
+			expCond="time > 1";
+			expActiv="fun = [""z7"",[1,0,0],[(ceil 2+(random 1) ),4,20,6],[],[],[],[0,11,2,9,1]] spawn DAC_Zone";
+			class Effects
+			{
+			};
+		};
+		class Item11
+		{
+			position[]={2113.5322,84.475174,11608.663};
+			a=600;
+			b=500;
+			angle=-45.461712;
+			rectangular=1;
+			activationBy="LOGIC";
+			repeating=1;
+			interruptable=1;
+			age="UNKNOWN";
+			text="Area de Esseker";
+			name="z8";
+			expCond="time > 1";
+			expActiv="fun = [""z8"",[1,0,0],[(ceil 2+(random 1) ),4,20,6],[],[],[],[0,11,2,9,1]] spawn DAC_Zone";
+			class Effects
+			{
+			};
 		};
 	};
 };

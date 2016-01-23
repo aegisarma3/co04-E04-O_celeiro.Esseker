@@ -3,7 +3,12 @@
 Quarto episódio da campanha em Esseker.
 
 # ![logo](images/SITREP_README.jpg)
-Logo após o retorno da equipe Kaiser ao "escritório" Corona fez contato com a equipe informando ter sido identificada pelo satélite Hannibal-6 uma grande movitação de veículos oriunda da suposta posição do artefato nuclear obtida por Kaiser na interceptação da comunicação de radio. Corona solicita que a equipe aja o mais rápido possível, contudo salienta que deve-se tomar extrema cautela pois esta ação repentina dos Bratva indica que eles podem estar movendo o artefato para maior segurança, uma vez que a operação anterior pode ter levantado suspeitas de que há alguem atrás do artefato.
+Logo após o retorno da equipe Kaiser ao FOB AEGIS, Corona fez contato com a equipe informando ter sido identificada pelo satélite Hannibal-6 uma grande movimentação de veículos oriunda da suposta posição do artefato nuclear (obtida por Kaiser na interceptação da comunicação de radio anteriormente). Corona solicita que a equipe aja o mais rápido possível, contudo salienta que deve-se tomar extrema cautela pois esta ação repentina dos Bratvas indica que eles podem estar movendo o artefato para maior segurança, uma vez que a operação anterior pode ter levantado suspeitas de que buscas pelo artefato estão sendo realizadas.
+
+Corona acredita que será difícil Kaiser encontrar todo o artefato ainda no local, então ela sugere que o líder local dos Bratvas seja capturado e trazido ao FOB AEGIS para um interrogatório detalhado. Assim seria possível extrair informações mais precisas. Como a região possui diversas zonas de sombra dificultando o escaneamento por satélite essas informações podem ajudar a completar as rotas que os veículos estão fazendo.
+A ação de Kaiser deve ser rápida e precisa, pois menor contato com os extremistas deverá atrair a atenção de reforços. A equipe deve manter distância das marcações Hotel-01 e Hotel-02 e qualquer via que esteja ligado a elas, fotos de satélite mostraram militares nessas áreas. Não sabemos se estão com algum tipo de parceria com os Bratvas ou se estão apenas investigando a morte dos 5 militares ocorrida no inicio da noite.
+
+Uma inserção direta a zona de interesse (marcação Tauros-01) seria um suicidio para a equipe, Corana sugireiu então que Kaiser se dirija até a marcação Vega-01 deixem os veículos e em seguida se desloque marcação Vegas-02, de onde porderã ter uma visão de Tauros-01 e avalair a melhor estratégia para inserção.   
 
 Boa sorte!
 
@@ -29,7 +34,7 @@ Todos os mods abaixo são necessários para a campanha.
 - [@esseker - 0.72](https://mega.nz/#!CVwUxDZR!JZOghB0LME6OWTBIZPk3qAECcmUNvdnPYKfj19PX9Gw)
 - [@melb - 0.00003](http://www.armaholic.com/page.php?id=28856)
 - [@mrt_accfncs - 1.20](http://www.armaholic.com/page.php?id=26426)
-- [@plp_containers - 0.6 beta](http://www.armaholic.com/page.php?id=29295)
+- [@plp_containers - 0.7 beta](http://www.armaholic.com/page.php?id=29295)
 - [@sma - 2.3](http://www.armaholic.com/page.php?id=26428)
 - [@tryk - 0.9.4 beta](http://www.armaholic.com/page.php?id=26661)
 
