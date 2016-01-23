@@ -1,0 +1,108 @@
+version=12;
+class Mission
+{
+	addOns[]=
+	{
+	};
+	addOnsAuto[]=
+	{
+	};
+	randomSeed=13763187;
+	class Intel
+	{
+		timeOfChanges=0;startWeather=0;startWind=0;startWaves=0;forecastWeather=0;forecastWind=0;forecastWaves=0;forecastLightnings=0;year=2035;day=1;hour=12;minute=0;startFogDecay=0;forecastFogDecay=0;
+	};
+	class Vehicles
+	{
+		items=46;
+		class Item0{position[]={2740.78125,0.223545,11218.450195};azimut=81.25;offsetY=0.223545;id=1;side="EMPTY";vehicle="plp_ctm_ForkliftStcOliveA";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2740.78125,11218.450195,0.223545];this setVectorUp [0,0,1]";};
+		class Item1{position[]={2742.614258,0.223541,11218.735352};azimut=81.25;offsetY=0.223541;id=2;side="EMPTY";vehicle="plp_ctm_ForkliftStcOliveB";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2742.614258,11218.735352,0.223541];this setVectorUp [0,0,1]";};
+		class Item2{position[]={2748.199951,0.15873,11232.925781};azimut=81.25;offsetY=0.15873;id=3;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.199951,11232.925781,0.15873];this setVectorUp [0,0,1]";};
+		class Item3{position[]={2748.199951,1.13205,11232.925781};azimut=81.25;offsetY=1.13205;id=4;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.199951,11232.925781,1.13205];this setVectorUp [0,0,1]";};
+		class Item4{position[]={2748.308105,1.13205,11232.223633};azimut=81.25;offsetY=1.13205;id=5;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.308105,11232.223633,1.13205];this setVectorUp [0,0,1]";};
+		class Item5{position[]={2748.41626,1.13205,11231.521484};azimut=81.25;offsetY=1.13205;id=6;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.41626,11231.521484,1.13205];this setVectorUp [0,0,1]";};
+		class Item6{position[]={2748.41626,0.165915,11231.521484};azimut=81.25;offsetY=0.165915;id=7;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.41626,11231.521484,0.165915];this setVectorUp [0,0,1]";};
+		class Item7{position[]={2747.713867,0.165915,11231.413086};azimut=81.25;offsetY=0.165915;id=8;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2747.713867,11231.413086,0.165915];this setVectorUp [0,0,1]";};
+		class Item8{position[]={2747.605713,0.165909,11232.115234};azimut=81.25;offsetY=0.165909;id=9;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2747.605713,11232.115234,0.165909];this setVectorUp [0,0,1]";};
+		class Item9{position[]={2748.308105,0.165909,11232.223633};azimut=81.25;offsetY=0.165909;id=10;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2748.308105,11232.223633,0.165909];this setVectorUp [0,0,1]";};
+		class Item10{position[]={2747.477295,0.165909,11232.772461};azimut=81.25;offsetY=0.165909;id=11;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2747.477295,11232.772461,0.165909];this setVectorUp [0,0,1]";};
+		class Item11{position[]={2747.210938,1.10823,11232.100586};azimut=107.44;offsetY=1.10823;id=12;side="EMPTY";vehicle="plp_cts_BarrelBiohazardSide";skill=0.60000002;init="this enableSimulation true;this setdir 107.44;this setposATL [2747.210938,11232.100586,1.10823];this setVectorUp [0,0,1]";};
+		class Item12{position[]={2746.774902,0.165909,11232.664063};azimut=81.25;offsetY=0.165909;id=13;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2746.774902,11232.664063,0.165909];this setVectorUp [0,0,1]";};
+		class Item13{position[]={2746.883057,0.165909,11231.961914};azimut=81.25;offsetY=0.165909;id=14;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2746.883057,11231.961914,0.165909];this setVectorUp [0,0,1]";};
+		class Item14{position[]={2746.991211,0.165909,11231.259766};azimut=81.25;offsetY=0.165909;id=15;side="EMPTY";vehicle="plp_cts_BarrelBiohazard";skill=0.60000002;init="this enableSimulation true;this setdir 81.25;this setposATL [2746.991211,11231.259766,0.165909];this setVectorUp [0,0,1]";};
+		class Item15{position[]={2745.918701,0.147247,11230.726563};azimut=93.2535;offsetY=0.147247;id=16;side="EMPTY";vehicle="plp_cts_BarrelBiohazardSide";skill=0.60000002;init="this enableSimulation true;this setdir 93.2535;this setposATL [2745.918701,11230.726563,0.147247];this setVectorUp [0,0,1]";};
+		class Item16{position[]={2742.215332,0.0859833,11241.109375};azimut=84.0769;offsetY=0.0859833;id=17;side="EMPTY";vehicle="plp_ct_CartonLightMedium";skill=0.60000002;init="this enableSimulation true;this setdir 84.0769;this setposATL [2742.215332,11241.109375,0.0859833];this setVectorUp [0,0,1]";};
+		class Item17{position[]={2742.363525,0.0859833,11239.969727};azimut=84.0769;offsetY=0.0859833;id=18;side="EMPTY";vehicle="plp_ct_CartonLightMedium";skill=0.60000002;init="this enableSimulation true;this setdir 84.0769;this setposATL [2742.363525,11239.969727,0.0859833];this setVectorUp [0,0,1]";};
+		class Item18{position[]={2742.580322,0.0859833,11238.733398};azimut=84.0769;offsetY=0.0859833;id=19;side="EMPTY";vehicle="plp_ct_CartonLightMedium";skill=0.60000002;init="this enableSimulation true;this setdir 84.0769;this setposATL [2742.580322,11238.733398,0.0859833];this setVectorUp [0,0,1]";};
+		class Item19{position[]={2742.762939,0.0859833,11237.529297};azimut=84.0769;offsetY=0.0859833;id=20;side="EMPTY";vehicle="plp_ct_CartonLightMedium";skill=0.60000002;init="this enableSimulation true;this setdir 84.0769;this setposATL [2742.762939,11237.529297,0.0859833];this setVectorUp [0,0,1]";};
+		class Item20{position[]={2742.909668,0.0859833,11236.398438};azimut=84.0769;offsetY=0.0859833;id=21;side="EMPTY";vehicle="plp_ct_CartonLightMedium";skill=0.60000002;init="this enableSimulation true;this setdir 84.0769;this setposATL [2742.909668,11236.398438,0.0859833];this setVectorUp [0,0,1]";};
+		class Item21{position[]={2744.545654,2.71296,11249.392578};azimut=79.563;offsetY=2.71296;id=22;side="EMPTY";vehicle="plp_ctp_PalletMetal";skill=0.60000002;init="this enableSimulation true;this setdir 79.563;this setposATL [2744.545654,11249.392578,2.71296];this setVectorUp [0,0,1]";};
+		class Item22{position[]={2744.681641,2.61707,11246.644531};azimut=81.0511;offsetY=2.61707;id=23;side="EMPTY";vehicle="plp_ctp_PalletMetal";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.681641,11246.644531,2.61707];this setVectorUp [0,0,1]";};
+		class Item23{position[]={2745.200684,2.61772,11244.180664};azimut=82.6384;offsetY=2.61772;id=24;side="EMPTY";vehicle="plp_ctp_PalletMetal";skill=0.60000002;init="this enableSimulation true;this setdir 82.6384;this setposATL [2745.200684,11244.180664,2.61772];this setVectorUp [0,0,1]";};
+		class Item24{position[]={2745.0136719,2.92042,11249.87207};azimut=81.0511;offsetY=2.92042;id=25;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2745.0136719,11249.87207,2.92042];this setVectorUp [0,0,1]";};
+		class Item25{position[]={2745.124268,2.92042,11249.169922};azimut=81.0511;offsetY=2.92042;id=26;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2745.124268,11249.169922,2.92042];this setVectorUp [0,0,1]";};
+		class Item26{position[]={2744.422363,2.92042,11249.0595703};azimut=81.0511;offsetY=2.92042;id=27;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.422363,11249.0595703,2.92042];this setVectorUp [0,0,1]";};
+		class Item27{position[]={2744.311768,2.92042,11249.761719};azimut=81.0511;offsetY=2.92042;id=28;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.311768,11249.761719,2.92042];this setVectorUp [0,0,1]";};
+		class Item28{position[]={2745.230957,2.83379,11247.242188};azimut=81.0511;offsetY=2.83379;id=29;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2745.230957,11247.242188,2.83379];this setVectorUp [0,0,1]";};
+		class Item29{position[]={2744.293457,2.83379,11247.119141};azimut=81.0511;offsetY=2.83379;id=30;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.293457,11247.119141,2.83379];this setVectorUp [0,0,1]";};
+		class Item30{position[]={2744.546631,2.83378,11246.0732422};azimut=81.0511;offsetY=2.83378;id=31;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.546631,11246.0732422,2.83378];this setVectorUp [0,0,1]";};
+		class Item31{position[]={2745.248535,2.83379,11246.183594};azimut=81.0511;offsetY=2.83379;id=32;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2745.248535,11246.183594,2.83379];this setVectorUp [0,0,1]";};
+		class Item32{position[]={2744.82959,2.83379,11244.488281};azimut=81.0511;offsetY=2.83379;id=33;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.82959,11244.488281,2.83379];this setVectorUp [0,0,1]";};
+		class Item33{position[]={2744.940186,2.83379,11243.786133};azimut=81.0511;offsetY=2.83379;id=34;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2744.940186,11243.786133,2.83379];this setVectorUp [0,0,1]";};
+		class Item34{position[]={2745.64209,2.83379,11243.896484};azimut=81.0511;offsetY=2.83379;id=35;side="EMPTY";vehicle="plp_ctm_BarrelRadioactive";skill=0.60000002;init="this enableSimulation true;this setdir 81.0511;this setposATL [2745.64209,11243.896484,2.83379];this setVectorUp [0,0,1]";};
+		class Item35{position[]={2743.587402,2.88472,11251.283203};azimut=34.0273;offsetY=2.88472;id=36;side="EMPTY";vehicle="plp_ctm_BarrelRadioactiveSide";skill=0.60000002;init="this enableSimulation true;this setdir 34.0273;this setposATL [2743.587402,11251.283203,2.88472];this setVectorUp [0,0,1]";};
+		class Item36{position[]={2743.0583496,0.00196838,11245.634766};azimut=33.2336;offsetY=0.00196838;id=37;side="EMPTY";vehicle="plp_ct_CartonLightSmall";skill=0.60000002;init="this enableSimulation true;this setdir 33.2336;this setposATL [2743.0583496,11245.634766,0.00196838];this setVectorUp [0,0,1]";};
+		class Item37{position[]={2729.758545,0.030426,11286.500977};azimut=39.0278;offsetY=0.030426;id=38;side="EMPTY";vehicle="Land_PowLines_WoodL";skill=0.60000002;init="this enableSimulation true;this setdir 39.0278;this setposATL [2729.758545,11286.500977,0.030426];this setVectorUp [0,0,1]";};
+		class Item38{position[]={2752.203369,0,11218.540039};azimut=39.0278;offsetY=0;id=39;side="EMPTY";vehicle="Land_PowLines_WoodL";skill=0.60000002;init="this enableSimulation true;this setdir 39.0278;this setposATL [2752.203369,11218.540039,0];this setVectorUp [0,0,1]";};
+		class Item39{position[]={2747.116455,0,11254.744141};azimut=40.5655;offsetY=0;id=40;side="EMPTY";vehicle="Land_PowLines_WoodL";skill=0.60000002;init="this enableSimulation true;this setdir 40.5655;this setposATL [2747.116455,11254.744141,0];this setVectorUp [0,0,1]";};
+		class Item40{position[]={2770.416992,0,11277.864258};azimut=40.6151;offsetY=0;id=41;side="EMPTY";vehicle="Land_PowLines_WoodL";skill=0.60000002;init="this enableSimulation true;this setdir 40.6151;this setposATL [2770.416992,11277.864258,0];this setVectorUp [0,0,1]";};
+		class Item41{position[]={2734.629395,0.559113,11251.5625};azimut=347.381;offsetY=0.559113;id=42;side="EMPTY";vehicle="ACE_medicalSupplyCrate_advanced";skill=0.60000002;init="this enableSimulation true;this setdir 347.381;this setposATL [2734.629395,11251.5625,0.559113];this setVectorUp [0,0,1]";};
+		class Item42{position[]={2742.0800781,1.85318,11243.958008};azimut=353.185;offsetY=1.85318;id=43;side="EMPTY";vehicle="O_CargoNet_01_ammo_F";skill=0.60000002;init="this enableSimulation true;this setdir 353.185;this setposATL [2742.0800781,11243.958008,1.85318];this setVectorUp [0,0,1]";};
+		class Item43{position[]={2736.557373,0.533066,11252.765625};azimut=260.823;offsetY=0.533066;id=44;side="EMPTY";vehicle="GunrackTK_EP1";skill=0.60000002;init="this enableSimulation true;this setdir 260.823;this setposATL [2736.557373,11252.765625,0.533066];this setVectorUp [0,0,1]";};
+		class Item44{position[]={2734.432617,1.19966,11248.609375};azimut=260.823;offsetY=1.19966;id=45;side="EMPTY";vehicle="Weapon_hgun_Pistol_Signal_F";skill=0.60000002;init="this enableSimulation true;this setdir 260.823;this setposATL [2734.432617,11248.609375,1.19966];this setVectorUp [0,0,1]";};
+		class Item45{position[]={2732.509766,0,11288.269531};azimut=156.161;offsetY=0;id=46;side="EMPTY";vehicle="Land_zavora_2";skill=0.60000002;init="this enableSimulation true;this setdir 156.161;this setposATL [2732.509766,11288.269531,0];this setVectorUp [0,0,1]";};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+	};
+	addOnsAuto[]=
+	{
+	};
+	randomSeed=13763187;
+	class Intel
+	{
+		timeOfChanges=0;startWeather=0;startWind=0;startWaves=0;forecastWeather=0;forecastWind=0;forecastWaves=0;forecastLightnings=0;year=2035;day=1;hour=12;minute=0;startFogDecay=0;forecastFogDecay=0;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+	};
+	addOnsAuto[]=
+	{
+	};
+	randomSeed=13763187;
+	class Intel
+	{
+		timeOfChanges=0;startWeather=0;startWind=0;startWaves=0;forecastWeather=0;forecastWind=0;forecastWaves=0;forecastLightnings=0;year=2035;day=1;hour=12;minute=0;startFogDecay=0;forecastFogDecay=0;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+	};
+	addOnsAuto[]=
+	{
+	};
+	randomSeed=13763187;
+	class Intel
+	{
+		timeOfChanges=0;startWeather=0;startWind=0;startWaves=0;forecastWeather=0;forecastWind=0;forecastWaves=0;forecastLightnings=0;year=2035;day=1;hour=12;minute=0;startFogDecay=0;forecastFogDecay=0;
+	};
+};
+

@@ -3,7 +3,7 @@
 Quarto episódio da campanha em Esseker.
 
 # ![logo](images/SITREP_README.jpg)
-Logo após o retorno da equipe Kaiser ao "escritório" Corona fez contato com a equipe informando ter sido identificada pelo satélite Hannibal-6 uma grande movitação de veículos oriunda da suposta posição do artefato nuclear obtida por Kaiser na interceptação da comunicação de radio. Corona solicita que a equipe aja o mais rápido possível, contudo salienta que deve-se tomar extrema cautela pois esta ação repentina dos Bratva... 
+Logo após o retorno da equipe Kaiser ao "escritório" Corona fez contato com a equipe informando ter sido identificada pelo satélite Hannibal-6 uma grande movitação de veículos oriunda da suposta posição do artefato nuclear obtida por Kaiser na interceptação da comunicação de radio. Corona solicita que a equipe aja o mais rápido possível, contudo salienta que deve-se tomar extrema cautela pois esta ação repentina dos Bratva indica que eles podem estar movendo o artefato para maior segurança, uma vez que a operação anterior pode ter levantado suspeitas de que há alguem atrás do artefato.
 
 Boa sorte!
 
