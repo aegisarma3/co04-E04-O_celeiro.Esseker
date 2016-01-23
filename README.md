@@ -8,7 +8,7 @@ Logo após o retorno da equipe Kaiser ao FOB AEGIS, Corona fez contato com a equ
 Corona acredita que será difícil Kaiser encontrar todo o artefato ainda no local, então ela sugere que o líder local dos Bratvas seja capturado e trazido ao FOB AEGIS para um interrogatório detalhado. Assim seria possível extrair informações mais precisas. Como a região possui diversas zonas de sombra dificultando o escaneamento por satélite essas informações podem ajudar a completar as rotas que os veículos estão fazendo.
 A ação de Kaiser deve ser rápida e precisa, pois menor contato com os extremistas deverá atrair a atenção de reforços. A equipe deve manter distância das marcações Hotel-01 e Hotel-02 e qualquer via que esteja ligado a elas, fotos de satélite mostraram militares nessas áreas. Não sabemos se estão com algum tipo de parceria com os Bratvas ou se estão apenas investigando a morte dos 5 militares ocorrida no inicio da noite.
 
-Uma inserção direta a zona de interesse (marcação Tauros-01) seria um suicidio para a equipe, Corana sugireiu então que Kaiser se dirija até a marcação Vega-01 deixem os veículos e em seguida se desloque marcação Vegas-02, de onde porderã ter uma visão de Tauros-01 e avalair a melhor estratégia para inserção.   
+Uma inserção direta a zona de interesse (marcação Tauros-01) seria um suicidio para a equipe, Corona sugeriu então que Kaiser se dirija até a marcação Vega-01 deixem os veículos e em seguida se desloque marcação Vegas-02, de onde porderã ter uma visão de Tauros-01 e avalair a melhor estratégia para inserção.   
 
 Boa sorte!
 
