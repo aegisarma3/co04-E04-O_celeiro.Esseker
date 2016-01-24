@@ -204,7 +204,7 @@ class Mission
 					special="NONE";
 					id=2;
 					side="WEST";
-					vehicle="AEGIS_Operador";
+					vehicle="B_medic_F";
 					player="PLAY CDG";
 					rank="SERGEANT";
 					skill=0.60000002;
