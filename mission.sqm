@@ -4779,7 +4779,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 279.861;this setposATL [4638.794434,5915.584473,3.87138];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_ACRMOE_Blk',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 279.861;this setposATL [4638.794434,5915.584473,3.87138];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_ACRMOE_Blk',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item138
 		{
@@ -4790,7 +4790,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 281.502;this setposATL [4638.804688,5915.582031,3.19294];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_HK416afg',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 281.502;this setposATL [4638.804688,5915.582031,3.19294];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_HK416afg',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item139
 		{
@@ -4801,7 +4801,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 279.924;this setposATL [4638.998047,5916.665039,3.88403];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_AUG_A3_MCAM_F',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 279.924;this setposATL [4638.998047,5916.665039,3.88403];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_AUG_A3_MCAM_F',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item140
 		{
@@ -4812,7 +4812,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 281.186;this setposATL [4639.0136719,5916.638672,3.1921];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_L85RIS',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 281.186;this setposATL [4639.0136719,5916.638672,3.1921];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_L85RIS',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item141
 		{
@@ -4823,7 +4823,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 315.846;this setposATL [4639.427734,5917.568848,3.73081];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_AAC_MPW_12_Tan',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 315.846;this setposATL [4639.427734,5917.568848,3.73081];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_AAC_MPW_12_Tan',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item142
 		{
@@ -4834,7 +4834,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 316.54;this setposATL [4639.82959,5917.9375,3.17509];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_MK18afg',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 316.54;this setposATL [4639.82959,5917.9375,3.17509];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_MK18afg',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item143
 		{
@@ -4845,7 +4845,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 314.52;this setposATL [4640.234375,5918.384277,3.70751];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_M4MOE_SM',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 314.52;this setposATL [4640.234375,5918.384277,3.70751];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_M4MOE_SM',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item144
 		{
@@ -4856,7 +4856,7 @@ class Mission
 			side="EMPTY";
 			vehicle="plp_ctwh_HelpRifleHangHoriz";
 			skill=0.60000002;
-			init="this enableSimulation false;this setdir 315.719;this setposATL [4639.817383,5917.96582,2.64581];this setVectorUp [0,0,1];this addWeaponCargo ['SMA_Tavor_F',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
+			init="this enableSimulation false;this setdir 315.719;this setposATL [4639.817383,5917.96582,2.64581];this setVectorUp [0,0,1];this addWeaponCargoGlobal ['SMA_Tavor_F',1];this setObjectTexture [0,'\plp_containers\Holders\wh_empty_ca.paa']";
 		};
 		class Item145
 		{
