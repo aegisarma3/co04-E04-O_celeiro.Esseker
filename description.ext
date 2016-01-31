@@ -1,4 +1,4 @@
-#include "aegis\functions.hpp"
+//#include "aegis\functions.hpp"
 
 author = "Toaster & Collumbus";
 onLoadName = "O Celeiro";
@@ -17,6 +17,7 @@ respawn            = 4;
 //respawnTemplates[] = {"ace_spectator"};
 DisabledAI = true;
 
+//allowFunctionsRecompile = 0;
 
 corpseLimit = 4;
 corpseRemovalMinTime = 20;
