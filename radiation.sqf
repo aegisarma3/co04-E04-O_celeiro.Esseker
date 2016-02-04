@@ -11,10 +11,11 @@ _rad =0;
   };
 };
 
+
 while {radarea} do {
   _rad = _rad + 0.05;
   [_player, _rad] call ace_medical_fnc_adjustPainLevel;
-  sleep 2;                                 
+  sleep 2;
   hint format["nível de radiação 122uSv/h, radiação absorvida: %1uGy", _rad];
   if (_rad >0.6) then {
     [_player, true] call ace_medical_fnc_setUnconscious;
