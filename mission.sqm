@@ -3575,7 +3575,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={4402.4805,185.13852,6046.7593};
+					position[]={4402.3174,185.14258,6046.9448};
 					azimut=1.5736099;
 					special="NONE";
 					id=71;
@@ -3591,7 +3591,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=195;
+		items=196;
 		class Item0
 		{
 			position[]={2740.7813,0.223545,11218.45};
@@ -5701,14 +5701,23 @@ class Mission
 		class Item194
 		{
 			position[]={4406.4297,185.15063,6048.1631};
-			azimut=438.6387;
+			azimut=438.63901;
 			special="NONE";
 			id=266;
 			side="EMPTY";
 			vehicle="B_G_Offroad_01_F";
 			leader=1;
 			skill=0.60000002;
-			text="aaa_2";
+			text="vh";
+		};
+		class Item195
+		{
+			position[]={4400.2993,185.49889,6055.082};
+			id=267;
+			side="EMPTY";
+			vehicle="plp_cts_BarrelRadioactive";
+			skill=0.60000002;
+			text="nuke";
 		};
 	};
 	class Markers
