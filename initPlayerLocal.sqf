@@ -55,14 +55,3 @@ player addEventHandler ["Killed",
 //Área Radioativa
 radarea = false;
 _rad = 0;
-/*while {radarea} do {
-
-  _rad = _rad + 0.05;
-  [player, _rad] call ace_medical_fnc_adjustPainLevel;
-  sleep 60;
-  hint format["nível %1uS de radiação", _rad];
-  if (_rad >0.6) then {
-    [player, true] call ace_medical_fnc_setUnconscious;
-  };
-};
-*/
