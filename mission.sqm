@@ -3575,7 +3575,7 @@ class Mission
 				items=4;
 				class Item0
 				{
-					position[]={4402.6968,185.03967,6042.4468};
+					position[]={4412.1772,183.19362,6007.9146};
 					azimut=1.5736099;
 					special="NONE";
 					id=71;
@@ -3588,7 +3588,7 @@ class Mission
 				};
 				class Item1
 				{
-					position[]={4401.8018,185.03532,6042.2461};
+					position[]={4411.2822,183.20363,6007.7139};
 					azimut=1.5736099;
 					special="NONE";
 					id=72;
@@ -3600,7 +3600,7 @@ class Mission
 				};
 				class Item2
 				{
-					position[]={4399.7295,185.0303,6042.0142};
+					position[]={4409.21,183.24113,6007.4819};
 					azimut=1.5736099;
 					special="NONE";
 					id=73;
@@ -3612,7 +3612,7 @@ class Mission
 				};
 				class Item3
 				{
-					position[]={4400.6313,185.03242,6042.1118};
+					position[]={4410.1118,183.22462,6007.5796};
 					azimut=1.5736099;
 					special="NONE";
 					id=74;
@@ -3627,7 +3627,7 @@ class Mission
 	};
 	class Vehicles
 	{
-		items=198;
+		items=199;
 		class Item0
 		{
 			position[]={2740.7813,0.223545,11218.45};
@@ -5736,7 +5736,7 @@ class Mission
 		};
 		class Item194
 		{
-			position[]={4407.7158,185.00053,6044.9731};
+			position[]={4417.1963,183.06851,6010.4409};
 			azimut=438.63901;
 			special="NONE";
 			id=269;
@@ -5757,7 +5757,7 @@ class Mission
 		};
 		class Item196
 		{
-			position[]={4405.417,184.99109,6042.1543};
+			position[]={4414.8975,183.08939,6007.6221};
 			azimut=78.394249;
 			id=271;
 			side="EMPTY";
@@ -5766,11 +5766,19 @@ class Mission
 		};
 		class Item197
 		{
-			position[]={4406.501,184.963,6042.3438};
+			position[]={4415.9814,183.0294,6007.8115};
 			azimut=-102.19241;
 			id=272;
 			side="EMPTY";
 			vehicle="ACE_medicalSupplyCrate";
+			skill=0.60000002;
+		};
+		class Item198
+		{
+			position[]={4410.4092,183.31357,6009.1426};
+			id=273;
+			side="EMPTY";
+			vehicle="FirePlace_burning_F";
 			skill=0.60000002;
 		};
 	};
@@ -6099,13 +6107,11 @@ class Mission
 		class Item13
 		{
 			position[]={4400.0864,185.69997,6059.9395};
-			a=15;
-			b=15;
 			activationBy="WEST";
 			repeating=1;
 			interruptable=1;
 			age="UNKNOWN";
-			expActiv="radarea = true;  (owner (thisList select 0)) publicVariableClient ""radarea"";nul = [thisList select 0] execvm ""radiation.sqf""";
+			expActiv="radarea = true;  (owner (thisList select 0)) publicVariableClient ""radarea"";nul = [thisList select 0,0.03] execvm ""radiation.sqf""";
 			expDesactiv="radarea = false;  (owner (thisList select 0)) publicVariableClient ""radarea"";";
 			class Effects
 			{
