@@ -3575,7 +3575,7 @@ class Mission
 				items=4;
 				class Item0
 				{
-					position[]={4403.3657,185.06099,6043.373};
+					position[]={4402.6968,185.03967,6042.4468};
 					azimut=1.5736099;
 					special="NONE";
 					id=71;
@@ -3588,7 +3588,7 @@ class Mission
 				};
 				class Item1
 				{
-					position[]={4402.4707,185.0554,6043.1724};
+					position[]={4401.8018,185.03532,6042.2461};
 					azimut=1.5736099;
 					special="NONE";
 					id=72;
@@ -3600,7 +3600,7 @@ class Mission
 				};
 				class Item2
 				{
-					position[]={4400.3984,185.05037,6042.9404};
+					position[]={4399.7295,185.0303,6042.0142};
 					azimut=1.5736099;
 					special="NONE";
 					id=73;
@@ -3612,7 +3612,7 @@ class Mission
 				};
 				class Item3
 				{
-					position[]={4401.3003,185.05249,6043.0381};
+					position[]={4400.6313,185.03242,6042.1118};
 					azimut=1.5736099;
 					special="NONE";
 					id=74;
@@ -5736,7 +5736,7 @@ class Mission
 		};
 		class Item194
 		{
-			position[]={4406.4297,185.15063,6048.1631};
+			position[]={4407.7158,185.00053,6044.9731};
 			azimut=438.63901;
 			special="NONE";
 			id=269;
@@ -5748,7 +5748,7 @@ class Mission
 		};
 		class Item195
 		{
-			position[]={4400.2993,185.49889,6055.082};
+			position[]={4400.1445,185.69724,6059.8667};
 			id=270;
 			side="EMPTY";
 			vehicle="plp_cts_BarrelRadioactive";
@@ -5757,7 +5757,7 @@ class Mission
 		};
 		class Item196
 		{
-			position[]={4404.1309,185.1041,6045.3442};
+			position[]={4405.417,184.99109,6042.1543};
 			azimut=78.394249;
 			id=271;
 			side="EMPTY";
@@ -5766,7 +5766,7 @@ class Mission
 		};
 		class Item197
 		{
-			position[]={4405.2148,185.076,6045.5337};
+			position[]={4406.501,184.963,6042.3438};
 			azimut=-102.19241;
 			id=272;
 			side="EMPTY";
@@ -6098,7 +6098,9 @@ class Mission
 		};
 		class Item13
 		{
-			position[]={4394.6919,183.87326,6098.3159};
+			position[]={4400.0864,185.69997,6059.9395};
+			a=15;
+			b=15;
 			activationBy="WEST";
 			repeating=1;
 			interruptable=1;
